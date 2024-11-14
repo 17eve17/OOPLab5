@@ -1,0 +1,7 @@
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\bin\Debug\LABOOP5.1.exe.config
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\bin\Debug\LABOOP5.1.exe
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\bin\Debug\LABOOP5.1.pdb
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\obj\Debug\LABOOP5.1.csproj.AssemblyReference.cache
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\obj\Debug\LABOOP5.1.csproj.CoreCompileInputs.cache
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\obj\Debug\LABOOP5.1.exe
+C:\Users\vival\source\repos\LABOOP5.1\LABOOP5.1\obj\Debug\LABOOP5.1.pdb
